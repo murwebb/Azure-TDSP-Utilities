@@ -25,7 +25,7 @@ The Interactive Data Exploration, Analysis and Reporting (IDEAR) tool provides a
 
 You need to install the following programs to use IDEAR:
 
-1. R: version 3.2.5 and above. We tested IDEAR in version 3.2.5, 3.3.1, and 3.3.2.
+1. R: version 3.2.5 and above. We tested IDEAR in version 3.2.5, 3.3.1, 3.3.2, and Microsoft R Open 3.3.1.
 2. RStudio: version 0.99.903 and above or Visual Studio with [RTVS](http://microsoft.github.io/RTVS-docs/).
 3. If you are using Linux DSVM on a Windows machine, you can [install X2Go on your client](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-data-science-linux-dsvm-intro/#installing-and-configuring-x2go-client) to log into the Linux DSVM. The X2Go interface appears as shown in the following figure:
 
@@ -33,7 +33,7 @@ You need to install the following programs to use IDEAR:
 
 
 >[AZURE.NOTE] The first time you run IDEAR, it checks whether you have all the dependent libraries installed. It may take 5-10 minutes to install the missing libraries like shiny and knitr. After the installation of missing libraries completes, stop IDEAR, restart RStudio, and run IDEAR again.
->
+> If you are using [Data Science Virtual Machine](https://azure.microsoft.com/en-us/marketplace/partners/microsoft-ads/standard-data-science-vm/) to run IDEAR in R, RStudio, Microsoft R Open 3.3.1 and all necessary R libraries have already been installed. You can start using IDEAR in R right away.
 
 ## Conventions, limitations, and the configuration of IDEAR
 
