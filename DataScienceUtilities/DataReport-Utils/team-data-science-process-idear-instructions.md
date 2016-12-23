@@ -34,7 +34,7 @@ You need to install the following programs to use IDEAR:
 
 >[AZURE.NOTE] The first time you run IDEAR, it checks whether you have all the dependent libraries installed. It may take 5-10 minutes to install the missing libraries like shiny and knitr. After the installation of missing libraries completes, stop IDEAR, restart RStudio, and run IDEAR again.
 
-> If you are using [Data Science Virtual Machine](https://azure.microsoft.com/en-us/marketplace/partners/microsoft-ads/standard-data-science-vm/) to run IDEAR in R, RStudio, Microsoft R Open 3.3.1 and all necessary R libraries have already been installed. You can start using IDEAR in R right away.
+> However, if you are using [Data Science Virtual Machine](https://azure.microsoft.com/en-us/marketplace/partners/microsoft-ads/standard-data-science-vm/) to run IDEAR in R, RStudio, Microsoft R Open 3.3.1 and all necessary R libraries have already been installed. You can start using IDEAR in R right away.
 
 ## Conventions, limitations, and the configuration of IDEAR
 
