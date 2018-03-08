@@ -1,0 +1,14 @@
+DataFilePath:
+    - adDevices.csv
+Target:
+    - TotalViews
+CategoricalColumns:
+    - Ad Length
+    - Device
+NumericalColumns:
+    - Clicks
+    - Cost
+    - Impressions 
+    - TotalViews 
+
+ 
